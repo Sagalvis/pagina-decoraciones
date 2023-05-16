@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+    border: 2px solid red;
+    margin: auto;
+    height: 100px;
+}
+.tarjetas-dec-hombre{
+    border: 5px solid green ; 
+    height: 1000px;
+
+}
+footer{
+    border:  2px solid blue;
+    margin: auto;
+    height: 100px;
+}
